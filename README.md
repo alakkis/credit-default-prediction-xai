@@ -1,5 +1,6 @@
 
-# Credit Default Prediction – End-to-End Classification Project
+ # Credit Default Prediction using Explainable AI (XAI)
+
 
 This project builds a machine learning system to predict whether a person is likely to default on a loan. It demonstrates how real-world financial features can be used to develop accurate and explainable ML models.
 
